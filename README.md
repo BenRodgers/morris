@@ -7,8 +7,8 @@ The task was to write a C99 program (called fitz) which allows the user to play 
 This game is based on the board game Nine Men’s Morris. 
 The game consists of 2 stages: 
 
-### Placement Stage: Placement of pieces on the board
-### Movement Stage: Movement of the pieces on the board
+1. Placement Stage: Placement of pieces on the board
+2. Movement Stage: Movement of the pieces on the board
 
 In the first stage,  players will place pieces on the board according to the ordering in the placement file. 
 For example a placement file containing: 
