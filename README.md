@@ -37,8 +37,6 @@ When the opponent has only 2 pieces remaining, the player wins.
 	Save Game
 	./morris saveFile
   
-## Validation
-When one of the conditions in the following table happens, the program should print the error message and exit with the specified status. All error messages in this program should be sent to standard error and followed by a newline. Error conditions should be tested in the order given in the table.
 
 
 
